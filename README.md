@@ -34,7 +34,6 @@ The last section of a high-quality README file is the license. This lets other d
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
@@ -44,7 +43,7 @@ Badges aren't necessary, but they demonstrate street cred. Badges let other deve
 
 ## Features
 
-If your project has a lot of features, list them here.
+N/A
 
 ## How to Contribute
 
